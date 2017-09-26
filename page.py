@@ -74,12 +74,16 @@ def random_job():
 @app.route('/')
 def root():
     print 'Root Accessed'
-    return 'basic test'
+    return '<center>get a job you bum</center>'
 
 @app.route('/occupations')
 def occupations():
+    percentages = []
+    for key in DATA:
+        percentages.append(DATA[key]['Percentage'])
+        
     print 'Occupations page accessed'
-    return render_template('occupations.html', DATA)
+    return render_template('occupations.html',foo=DATA,job_select=random_job())
 
 
     

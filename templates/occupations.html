@@ -3,18 +3,21 @@
   <head>
     <title>Occupations!</title>
   </head>
-  <body>
+  <body bgcolor="c7ffc7">
     <center>
-      <h1>Occupations Table!!1!!1!!</h1>
-      <table>
+      <h1>Find a Career!</h1>
+      <table border="1">
 	<tr>
 	  <th>Occupation</th>
-	  {% for i in DATA %}
-	  {{i}}
-	  {% endfor %}
 	  <th>Percentage</th>
+	  <th>Link</th>
+	  {% for i in foo%}
+	  <tr><td>{{i}}</td><td>{{foo[i]['Percentage']}}</td><td><a href="{{foo[i]['Link']}}">Get Started!</a></td></tr>
+	  {% endfor %}
 	  </tr>
 	</table>
+      <h3>Randomly selected job:{{job_select}}</h3>
+</h4><a href="{{foo[job_select]['Link']}}">More Info!</a></h4>
       </center>
   </body>
 </html>

@@ -1,24 +1,24 @@
-Job Class,Percentage,Rating
-Management,6.1,100
-Business and Financial operations,5,7
-Computer and Mathematical,2.7,12
-Architecture and Engineering,1.7,45
-"Life, Physical and Social Science",0.9,21
-Community and Social Service,1.6,2
-Legal,0.8,90
-"Education, training and library",6.1,8
-"Arts, design, entertainment, sports and media",1.7,3
-Healthcare practioners and technical,5.5,88
-Healthcare support,2.8,15
-Protective service,2.3,35
-Food preparation and serving,8.3,67
-Building and grounds cleaning and maintenance,3.7,92
-Personal care and service,4,91
-Sales,10.2,18
-Office and administrative support,15.1,90
-"Farming, fishing and forestry",0.6,36
-Construction and extraction,4.3,88
-"Installation, maintenance and repair",3.8,89
-Production,6.1,97
-Transportation and material moving,6.5,90
-Total,99.8,100
+Job Class,Percentage,Rating,Link
+Management,6.1,100,https://www.thebalance.com/getting-a-first-management-job-2275109
+Business and Financial operations,5,7,https://www.entrepreneur.com/article/271446#
+Computer and Mathematical,2.7,12,http://www.thoughtspad.com/sharing/how-to-start-a-career-in-computer-science/#.Wcq14B9idCU
+Architecture and Engineering,1.7,45,https://youngarchitect.com/2015/01/21/becoming-an-architect/
+"Life, Physical and Social Science",0.9,21,https://www.bls.gov/oes/current/oes190000.htm
+Community and Social Service,1.6,2,https://www.teenlife.com/blogs/how-get-started-community-service
+Legal,0.8,90,http://abovethelaw.com/2015/02/reinventing-the-law-business-7-steps-to-getting-a-job-as-a-lawyer/
+"Education, training and library",6.1,8,https://www.brazen.com/blog/archive/career-growth/7-pro-tips-for-getting-a-job-in-education/
+"Arts, design, entertainment, sports and media",1.7,3,https://www.thebalance.com/get-entry-level-entertainment-job-1283514
+Healthcare practioners and technical,5.5,88,https://www.monster.com/career-advice/article/entry-level-healthcare-jobs-no-training
+Healthcare support,2.8,15,https://www.healthcaresupport.com/
+Protective service,2.3,35,https://www.monster.com/career-advice/article/law-enforcement-stimulus-jobs
+Food preparation and serving,8.3,67,https://collegegrad.com/careers/food-preparation-workers
+Building and grounds cleaning and maintenance,3.7,92,https://www.sokanu.com/careers/grounds-maintenance-worker/
+Personal care and service,4,91,https://www.bayada.com/homehealthcare/services/getting-started-personal-care.asp
+Sales,10.2,18,https://www.monster.com/career-advice/article/land-a-sales-job-without-experience
+Office and administrative support,15.1,90,http://www.snagajob.com/job-descriptions/administrative-assistant/
+"Farming, fishing and forestry",0.6,36,http://www.beginningfarmers.org/internship-and-employment-opportunities/
+Construction and extraction,4.3,88,http://www.careersinconstruction.ca/en/careers/getting-started
+"Installation, maintenance and repair",3.8,89,http://www.gaebler.com/Starting-a-Property-Maintenance-Business.htm
+Production,6.1,97,http://shohawk.com/production-assistant-jobs/
+Transportation and material moving,6.5,90,https://www.thebalance.com/transportation-job-titles-2061509
+Total,99.8,100,/
