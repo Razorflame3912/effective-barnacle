@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 
 #Opens file
-f = open('occupations.csv','r')
+f = open('data/occupations.csv','r')
 
 #Reads and closes file
 str = f.read();
